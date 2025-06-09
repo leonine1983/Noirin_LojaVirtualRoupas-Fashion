@@ -48,15 +48,15 @@ Este é um projeto front-end desenvolvido em React para uma loja virtual de roup
 
 src/
 ├── components/
-│ ├── Header.jsx # Cabeçalho com logo
-│ ├── Footer.jsx # Rodapé da aplicação
+│ ├── Header.jsx 
+│ ├── Footer.jsx 
 ├── pages/
-│ ├── Inicio.jsx # Página inicial com logo
-│ ├── ListarProdutos.jsx # Lista de produtos
-│ ├── MostrarProduto.jsx # Detalhes do produto
+│ ├── Inicio.jsx
+│ ├── ListarProdutos.jsx 
+│ ├── MostrarProduto.jsx 
 ├── services/
-│ └── index.js # Configuração do Axios
-├── App.jsx # Definição de rotas
+│ └── index.js 
+├── App.jsx 
 └── main.jsx
 
 ## Autor
