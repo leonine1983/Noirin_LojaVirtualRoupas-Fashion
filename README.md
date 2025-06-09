@@ -45,20 +45,10 @@ Este é um projeto front-end desenvolvido em React para uma loja virtual de roup
 4. Acesse o projeto no navegador em `http://localhost:3000`.
 
 ## Estrutura do Projeto
-
-src/
-
-├── components/
-│ ├── Header.jsx 
-│ ├── Footer.jsx 
-├── pages/
-│ ├── Inicio.jsx
-│ ├── ListarProdutos.jsx
-│ ├── MostrarProduto.jsx 
-├── services/
-│ └── index.js 
-├── App.jsx 
-└── main.jsx
+- `/src/components`: Componentes React reutilizáveis.
+- `/src/pages`: Páginas da aplicação (Home, Lista de Produtos, Detalhes).
+- `/src/services`: Configuração da API com Axios.
+- `/public`: Arquivos estáticos como logo e index.html.
 
 ## Autor
 
