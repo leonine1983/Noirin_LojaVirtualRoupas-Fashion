@@ -1,5 +1,5 @@
 
-# Noirin - Loja Virtual de Moda Fashion
+# 🖤 Noirin - Loja Virtual de Moda Fashion
 
 Bem-vindo à Noirin! Descubra o universo da moda com peças exclusivas, design moderno e a elegância que você merece.
 
