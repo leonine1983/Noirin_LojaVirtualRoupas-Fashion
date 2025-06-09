@@ -47,6 +47,7 @@ Este é um projeto front-end desenvolvido em React para uma loja virtual de roup
 ## Estrutura do Projeto
 
 src/
+
 ├── components/
 │ ├── Header.jsx 
 │ ├── Footer.jsx 
