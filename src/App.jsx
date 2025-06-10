@@ -6,7 +6,11 @@ import ProductList from './pages/ListarProdutos';
 import ProductDetail from './pages/MostrarProduto';
 import Header from './components/Header';
 import Footer from './components/Footer';
-
+import 'primereact/resources/themes/lara-light-pink/theme.css'; 
+import 'primereact/resources/primereact.min.css';  
+import 'primeflex/themes/primeone-light.css'            
+import 'primeicons/primeicons.css';                             
+import 'primeflex/primeflex.css';   
 
 function App() {
   return (
